@@ -1,0 +1,15 @@
+positive:Professional portrait photo, a 20-year-old woman, dressed in a flowing, off-shoulder dress, standing on a sun-kissed beach with gentle waves in the background, the warm tones of the sunset casting a golden glow on her radiant smile
+negative:text, watermark, hands, fingers
+-----------------
+positive:Professional portrait photo, a 20-year-old woman, in a vintage-inspired dress, standing on a rustic wooden bridge in a lush forest, dappled sunlight filtering through the trees, creating a tranquil and enchanting setting
+negative:text, watermark, hands, fingers
+----
+positive:epic cinematic shot of dynamic a 20-year-old woman,event hair, crown, smile, renaissance, pose for a picture in a digital painting style photo by a photographer, Altoon Sultan, highly detailed digital painting, back sunlight best quality, high resolution
+negative:text, watermark, hands, fingers
+----
+positive:medium clode-up photo, PROFESSIONAL warm lovely, romantic, a happy 20yo woman posing on a wheat field, wavy hair, knitted sweater, mountains, trees, sunset
+negative: 
+----
+positive:medium shot, beautiful 20yo woman in a dress made from white fabric that flows all around her, hair swirling flowing, vibrant background, pastel, beautiful, painterly, detailed, textural, artistic
+negative: 
+

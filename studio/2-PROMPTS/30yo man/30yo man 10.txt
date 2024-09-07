@@ -1,0 +1,30 @@
+positive:Professional portrait photo, a 30-year-old man, in a refined, minimalist outfit, captured on a modern architectural structure with sharp lines and glass facades, the clean, geometric background emphasizing his sharp, focused look
+negative:
+-----------------
+positive:Professional portrait photo, a 30-year-old man, dressed in luxury attire, studio, black background
+negative:
+----
+positive:Professional portrait photo, a 30-year-old man, in a well-fitted wool coat, standing on a cobblestone street in a historic European city, with classic lanterns and old buildings in the background, capturing a blend of modernity and old-world charm
+negative:
+----
+positive:Professional portrait photo, a 30-year-old man, wearing a tailored vest and tie, standing by the ocean with cliffs in the background, the wind subtly ruffling his hair, the natural setting highlighting his rugged yet refined style
+negative:
+----
+positive:Professional portrait photo, a 30-year-old man, dressed in a stylish, casual blazer over a fitted crew-neck sweater, with a backdrop of an elegant urban street scene featuring muted colors and soft lighting, capturing a sophisticated yet relaxed look, medium close-up
+negative:
+----
+positive:epic cinematic shot of dynamic a 30-year-old man, event hair, crown, smile, renaissance, pose for a picture in a digital painting style photo by a photographer, Altoon Sultan, highly detailed digital painting, back sunlight best quality, high resolution
+negative:
+----
+positive:medium clode-up photo, PROFESSIONAL warm lovely, romantic, a happy 30yo man posing on a wheat field, white slimfit shirt, mountains, trees, sunset
+negative: 
+----
+positive:Professional portrait photo, a 30-year-old man, smile, wavy hair, white luxury attire, city night bokeh guy aroch
+negative: 
+----
+positive:professional photo, king from 1762, medium-shot, crown, room, renaissance, intricate, smile, style of Guy Aroch 
+negative: 
+----
+positive:professional photo, a macho man, in a club, white shirt, event hairstyle, luxury, style of Guy Aroch 
+negative: 
+----

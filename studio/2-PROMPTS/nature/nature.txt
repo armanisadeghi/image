@@ -1,0 +1,14 @@
+positive: A vivid photo of a sunflower on a  field under a bright blue sky, tall sunflowers with their golden petals facing the sun, cheerful and uplifting mood, contrasting beautifully with the clear sky.
+negative: 
+-----------------
+positive: A crisp photo of a mountain lake at sunrise, crystal-clear water reflecting the snow-capped peaks and vibrant sky, tranquil and breathtaking mood, the scene includes a lone pine tree standing on the shore, adding depth and perspective.
+negative: 
+----
+positive: A detailed photo of a field of lavender in full bloom, rows of vibrant purple flowers stretching into the distance, fragrant and soothing mood, the scene is bathed in golden light from the setting sun, creating a warm and inviting atmosphere.
+negative: 
+----
+positive: A close-up photo of dew-covered grass blades at dawn, tiny droplets of water glistening in the early morning light, fresh and rejuvenating mood, the soft focus on the background highlights the delicate beauty of nature's details.
+negative: 
+----
+positive: A panoramic photo of a coastal cliffside at sunset, rugged rocks meeting the calm sea, dramatic and awe-inspiring mood, the sky is painted with hues of pink and orange, while the waves gently crash against the shore below.
+negative: 

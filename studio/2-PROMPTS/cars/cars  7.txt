@@ -1,0 +1,20 @@
+positive: A sleek electric sports car cruising on a futuristic highway, neon lights reflecting off its smooth surface, vibrant and high-tech mood, highlight the car's advanced design and glowing accents.
+negative: 
+-----------------
+positive: A vintage convertible parked by a picturesque lakeside, serene backdrop with lush greenery and calm water, classic and tranquil mood, accentuate the car's elegant lines and the scenic environment.
+negative: 
+-----------------
+positive: A rugged SUV tackling a steep desert sand dune, harsh desert background with bright sunlight and swirling sand, bold and adventurous mood, focus on the vehicle's power and the challenging terrain.
+negative: 
+-----------------
+positive: A high-performance supercar on a race track during the day, intense backdrop with track lines and spectators, thrilling and competitive mood, showcase the car's aerodynamic design and speed.
+negative: 
+-----------------
+positive: An iconic muscle car in front of a classic drive-in theater, nostalgic backdrop with retro billboards and outdoor movie screen, vintage and fun mood, highlight the car's muscular features and the retro setting.
+negative: 
+-----------------
+positive: A sleek hybrid car parked beside a modern eco-friendly building, clean cityscape with greenery and solar panels, green and innovative mood, emphasize the car's eco-conscious design and the building's sustainable features.
+negative: 
+-----------------
+positive: A powerful sports utility vehicle navigating through a dense forest trail, natural backdrop with tall trees and dappled sunlight, rugged and adventurous mood, capture the vehicle's strength and the forest's dense environment.
+negative: 

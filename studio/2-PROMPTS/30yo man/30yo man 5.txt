@@ -1,0 +1,15 @@
+positive:Professional portrait photo, a 30-year-old man, in a custom-tailored linen suit, standing in a vineyard at sunset, with rows of grapevines stretching into the distance, the warm light and lush setting conveying elegance and tranquility
+negative:
+-----------------
+positive:Professional portrait photo, a 30-year-old man, wearing a tailored navy suit, standing confidently on a rooftop with a panoramic cityscape at dusk, the sky transitioning to twilight, exuding modern elegance and determination
+negative:
+----
+positive:Professional portrait photo, a 30-year-old man, dressed in a classic black tuxedo, captured in a grand opera house, the rich red velvet curtains and ornate gold details adding an air of sophistication and timeless style
+negative:
+----
+positive:Professional portrait photo, a 30-year-old man, in a stylish, casual blazer over a crisp white shirt, standing by a rustic barn in a picturesque countryside setting, golden hour light creating a warm, inviting atmosphere
+negative:
+----
+positive:Professional portrait photo, a 30-year-old man, wearing a sleek leather jacket, standing in an industrial loft with exposed brick walls and large windows, the natural light highlighting his strong features and contemporary edge
+negative:
+----

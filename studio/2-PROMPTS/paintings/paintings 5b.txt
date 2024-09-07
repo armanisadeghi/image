@@ -1,0 +1,15 @@
+positive: A softly lit oil painting of a serene lakeside at dawn, gentle pastel hues with a misty reflection on the water, peaceful and tranquil mood, the scene captures the stillness of the early morning, with delicate ripples on the surface and trees softly swaying in the breeze.
+negative: 
+-----------------
+positive: A vibrant watercolor painting of a bustling market square in a quaint village, lively colors with intricate details on the stalls and cobblestone streets, cheerful and lively mood, the painting showcases a variety of fruits, flowers, and handmade crafts, with villagers engaging in friendly conversation.
+negative: 
+----
+positive: A richly textured oil painting of a sunlit meadow filled with wildflowers, bright, cheerful tones with a focus on the play of light and shadow, joyful and refreshing mood, the flowers sway gently in the breeze, their colors blending harmoniously with the lush green grass.
+negative: 
+----
+positive: A detailed watercolor painting of a cozy reading nook by a window, soft, warm tones with light streaming through sheer curtains, relaxing and inviting mood, the scene includes a comfortable chair, a small bookshelf, and a steaming cup of tea on a side table.
+negative: 
+----
+positive: An expressive oil painting of a peaceful beach at sunset, warm, glowing tones with a focus on the sky’s dramatic colors, calming and reflective mood, the waves gently lap against the shore, with distant sailboats adding a sense of serenity and balance to the composition.
+negative:  
+

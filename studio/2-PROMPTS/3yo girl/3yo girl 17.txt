@@ -1,0 +1,56 @@
+positive:Professional portrait photo, a 3-year-old girl, in a cute, tiered dress with pastel stripes, standing in front of a sunlit field with rolling hills and soft, golden light, capturing a serene and playful essence, medium close-up
+negative:
+-----------------
+positive:Professional portrait photo, a 3-year-old girl, wearing a delicate floral dress with a matching bow, set against a soft, pastel-colored garden background with blooming flowers, capturing a sweet and charming look, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, dressed in a cozy, knit cardigan over a striped dress, standing in front of a serene, autumnal park with golden leaves and warm tones, creating a cheerful and inviting atmosphere, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, in a playful, fashion, pastel dress with a tulle skirt, with a backdrop of a colorful playground and bright sunlight, the lively colors and natural light enhancing her joyful expression, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, wearing a charming, vintage-inspired dress with lace details, set against a backdrop of a quaint, sunlit cottage with soft, warm tones, evoking a nostalgic and whimsical feel, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, dressed in a cozy, pastel sweater with a heart pattern, standing in front of a snowy winter scene with soft, muted colors, capturing a sweet and serene winter moment, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, in a vibrant, bohemian-style dress with playful patterns, with a backdrop of a sunny, flower-filled meadow, the bright colors and natural light creating a lively and enchanting setting, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, attire, backlight, black background, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, dressed in a sweet, ruffled romper with a floral headband, set against a backdrop of a lush, tropical garden with soft, vibrant colors, creating a lively and fresh look, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, in a cozy winter outfit, standing in a snowy forest, with snowflakes gently falling around her, her delighted expression bringing warmth to the crisp, wintry scene, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, wearing a pastel-colored dress with a floral pattern, standing in a sunlit meadow, surrounded by wildflowers, her bright smile capturing the innocence and joy of childhood, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, dressed in a whimsical fairy costume with wings, standing in an enchanted forest, soft light filtering through the trees, creating a magical, storybook atmosphere, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, wearing a cozy knitted sweater and a beanie, sitting on a rustic wooden bench in an autumn park, fallen leaves surrounding her, the warm tones of the season enhancing her playful charm, medium close-up
+negative:
+----
+positive:close-up, Professional portrait photo, a 3-year-old girl, in a delicate white dress, sandy beach, with gentle waves, the soft morning light creating a serene and peaceful mood,
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, dressed in a vibrant traditional dress, standing in a colorful flower garden, her joyful expression and the vivid blooms around her creating a lively and cheerful scene, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, wearing a vintage-style dress with a bow in her hair, standing by a charming old carousel, the pastel colors and gentle motion creating a nostalgic, dreamy setting, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 3-year-old girl, in a princess dress with a tiara, sitting on a throne, luxury, her wide-eyed wonder and the elegant surroundings evoking a fairytale-like atmosphere, medium close-up
+negative:
+----
+
+
+
+
+

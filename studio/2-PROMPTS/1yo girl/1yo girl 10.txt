@@ -1,0 +1,37 @@
+positive:Professional portrait photo, a 1-year-old girl, in a delicate, embroidered dress with a soft headband, set against a backdrop of a dreamy, softly lit forest with gentle dappled light, capturing a magical and enchanting look, medium close-up
+negative:
+-----------------
+positive:Professional portrait photo, a 1-year-old girl, wearing a soft, pastel-colored romper with delicate lace trim, set against a gentle, blurred garden backdrop with soft sunlight yellow flower, capturing her sweet and curious expressions, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 1-year-old girl, dressed in a charming white dress with ruffled details, with a background of a cozy, sunlit nursery featuring soft, neutral tones and gentle textures, creating a warm and serene ambiance, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 1-year-old girl, wearing a cozy, knitted sweater in a soft shade, set against a backdrop of a rustic wooden cabin with warm, natural light and simple decor, evoking a sweet and homey feel, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 1-year-old girl, dressed in a charming, floral dress with a matching bonnet, set against a backdrop of a serene meadow with gentle, natural light and soft colors, creating a whimsical and peaceful setting, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 1-year-old girl, wearing a sweet, gingham-patterned dress with a matching bow, set against a backdrop of a sunny, garden setting with blooming flowers and soft light, enhancing her innocent charm, medium close-up
+negative:
+----
+positive:epic cinematic shot of dynamic a european 1yo babygirl, event hair, crown, smile, renaissance, pose for a picture in a digital painting style photo by a photographer, Altoon Sultan, highly detailed digital painting, back sunlight best quality, high resolution
+negative:
+----
+positive:medium close-up photo, PROFESSIONAL warm lovely, romantic, a happy 1yo girl posing on a wheat field, wavy hair, knitted sweater, mountains, trees, sunset
+negative: 
+----
+positive:medium close-up photo, 1yo girl, PROFESSIONAL photo, event style,  pastel color, easter studio design background
+negative:
+----
+positive:medium close-up photo, 1yo girl, PROFESSIONAL photo, event style,  pastel color, newyear studio design background, gold silver
+negative:
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+positive: An elegant plate of sushi rolls with a variety of fillings, arranged neatly on a dark slate platter, sophisticated and appetizing mood, the focus is on the fresh ingredients and artistic presentation of the sushi, with a side of soy sauce and wasabi.
+negative:   
+-----------------
+positive: A beautifully arranged platter of gourmet appetizers, colorful and fresh ingredients with a clean, white background, elegant and appetizing mood, the focus is on the vibrant colors and intricate presentation of each dish.
+negative: 
+----
+positive: A close-up of a perfectly grilled steak with a side of roasted vegetables, rich, warm colors with a rustic wooden table background, hearty and satisfying mood, the steak is juicy and well-seasoned, with a garnish of herbs adding freshness.
+negative: 
+----
+positive: A vibrant fruit salad in a glass bowl, bright and fresh colors with a light, airy background, refreshing and healthy mood, the assortment includes berries, melons, and citrus fruits, with a touch of mint for added visual appeal.
+negative: 
+----
+positive: A delicious slice of chocolate cake with a glossy ganache topping, dark, rich tones with a simple, clean background, indulgent and tempting mood, the cake is garnished with fresh berries and a dusting of powdered sugar.
+negative: 
+----

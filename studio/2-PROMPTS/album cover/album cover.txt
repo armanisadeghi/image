@@ -1,0 +1,14 @@
+positive: A dynamic cover design featuring a bold, abstract design with vibrant colors and geometric shapes, energetic and modern mood, overlay the text "Nova Beats" and "Electric Dreams" in a sleek, contemporary font.
+negative:  
+-----------------
+positive: A minimalist cover design with a striking black-and-white portrait of the artist, clean and simple background with subtle textures, sophisticated and timeless mood, overlay the text "Alex Hart" and "Echoes" in an elegant serif font.
+negative: 
+----
+positive: A vintage-inspired cover design with a retro color palette and classic typography, featuring an illustration of a vintage microphone and musical notes, nostalgic and stylish mood, overlay the text "The Old Souls" and "Vintage Vibes" in a decorative, old-school font.
+negative: 
+----
+positive: A vibrant, nature-themed cover design with a colorful landscape and the artist performing in a scenic setting, bright and uplifting mood, overlay the text "Lily Rivers" and  "Summer Serenade" in a playful, handwritten font.
+negative: 
+----
+positive: A sleek, futuristic art, innovative mood, overlay the text "Quantum X" and "Cyber Pulse" in a modern, tech-inspired font.
+negative: 

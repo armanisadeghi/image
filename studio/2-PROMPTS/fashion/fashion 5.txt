@@ -1,0 +1,14 @@
+positive: Model walking down a runway in an elegant evening gown, sleek modern runway with dramatic lighting, sophisticated and high-fashion mood, focus on the gown's intricate details and the model's graceful movement.
+negative: 
+-----------------
+positive: Model wearing trendy streetwear, urban environment with graffiti or architectural backdrop, bold and confident mood, vibrant colors and patterns to highlight the fashion-forward style.
+negative: 
+----
+positive: Professional wedding photo, a couple walk on a hill at sunset
+negative: 
+----
+positive: Model in a flowing summer dress or swimsuit, beach setting with bright sunlight and ocean backdrop, carefree and relaxed mood, emphasis on the movement of the fabric and the warm, sunny atmosphere.
+negative: 
+----
+positive: Model showcasing an avant-garde fashion look, artistic setting with experimental lighting, creative and edgy mood, unique angles and unconventional materials to highlight the avant-garde style.
+negative: 

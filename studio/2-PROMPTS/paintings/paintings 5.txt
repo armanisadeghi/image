@@ -1,0 +1,14 @@
+positive: A stunning oil painting of a tranquil seascape at sunset, rich, warm colors with smooth blending, peaceful and serene mood, the waves gently lap against the shore as the sun casts a golden glow across the water.
+negative: 
+-----------------
+positive: italy lake como, konstantin razumov paintingnegative: 
+----
+positive: An expressive oil painting of a mountain landscape, deep, textured brushstrokes with a dramatic sky, awe-inspiring and powerful mood, the towering peaks are highlighted by the contrast between light and shadow, conveying the grandeur of nature.
+negative: 
+----
+positive: a cute couple walking, hills, Sommarnöje (Swedish for Summer Delight or Summertime Fun) is a watercolor by the Swedish painter Anders Zorn, made in 1886 in Dalarö, near Stockholm
+negative: 
+----
+positive: A richly detailed oil painting of a vase of flowers on a rustic table, warm, earthy tones with careful attention to texture, cozy and inviting mood, the flowers are arranged in a lush bouquet, with each petal meticulously rendered to capture their natural beauty.
+negative: 
+

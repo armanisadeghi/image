@@ -1,0 +1,14 @@
+positive: A majestic lion standing on a rocky outcrop at sunrise, golden light illuminating its mane with a vast savannah in the background, powerful and regal mood, the lion gazes out over its territory with an air of dominance.
+negative: 
+-----------------
+positive: A graceful cheetah mid-sprint across an open plain, blurred background of tall grass with a focus on the cheetah's sleek form, dynamic and intense mood, the speed and agility of the cheetah are captured in sharp detail.
+negative: 
+----
+positive: A serene scene of a giant panda lounging in a bamboo forest, lush green foliage with dappled sunlight filtering through the leaves, peaceful and calming mood, the panda is calmly munching on bamboo, surrounded by its natural habitat.
+negative: 
+----
+positive: A powerful eagle soaring high above a mountain range, clear blue sky with distant peaks below, majestic and free-spirited mood, the eagle's wings are spread wide, capturing the essence of flight and freedom.
+negative: 
+----
+positive: A striking image of a wolf howling at the full moon in a snowy forest, dark, mysterious night setting with snow-covered trees, wild and haunting mood, the wolf's silhouette is sharply defined against the glowing moon.
+negative: 

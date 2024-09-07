@@ -1,0 +1,14 @@
+positive:Macro photo of a vibrant ladybug crawling on a dewy leaf, showcasing intricate details of its red and black spots
+negative:
+-----------------
+positive:macro photo of a dragonfly perched on a twig, with its iridescent wings and complex eye patterns in sharp focus
+negative:
+----
+positive:Macro photo of a bee collecting pollen from a bright yellow flower, highlighting the fuzzy texture of its body and delicate wings.
+negative:
+----
+positive:Macro photo of a praying mantis on a branch, capturing the detailed texture of its green exoskeleton and the precise articulation of its legs
+negative:
+----
+positive:Macro photo of a spider spinning its web in the morning light, with emphasis on the delicate silk threads and the spider's intricate body structure
+negative:

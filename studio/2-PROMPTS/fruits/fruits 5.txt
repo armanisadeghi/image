@@ -1,0 +1,14 @@
+positive: A vibrant assortment of sliced citrus fruits arranged in a circular pattern, bright and clean background with soft gradients, fresh and energizing mood, emphasis on the vivid colors and textures of the fruit slices.
+negative: 
+-----------------
+positive: professional stock photo, A close-up view of a cluster of fruitmix, in a luxury kitchen table
+negative: 
+----
+positive: A neatly arranged row of tropical fruits like pineapples, mangoes, and bananas, soft pastel background with gentle gradients, exotic and cheerful mood, highlight the varied textures and colors for a lively composition.
+negative: 
+----
+positive: professional ads photo, fruits flying throgh water splashes, stock photo
+negative: 
+----
+positive: Professional stock photo of a watermelon
+negative: 

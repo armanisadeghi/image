@@ -1,0 +1,15 @@
+positive: A cute anime-style character sitting in a peaceful garden, bright and colorful flowers with soft lighting, calm and serene mood, the character has large expressive eyes and is wearing a traditional Japanese kimono.
+negative: 
+-----------------
+positive: A chibi character with big eyes and a playful expression, colorful candy-themed background with whimsical details, fun and energetic mood, the character is holding a lollipop and surrounded by floating sweets.
+negative: 
+----
+positive: A group of friends in a school setting, vibrant classroom background with desks and books, cheerful and friendly mood, the characters are wearing school uniforms and are engaged in a lively conversation.
+negative: 
+----
+positive: A fantasy-themed anime character standing on a hilltop, glowing sunset background with rolling hills, adventurous and inspiring mood, the character is wielding a magical staff and looking towards the horizon.
+negative: 
+----
+positive: A kawaii-style animal character in a magical forest, lush greenery and sparkling lights in the background, cute and enchanting mood, the character is a small fox with oversized ears and a curious expression.
+negative: 
+

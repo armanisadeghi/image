@@ -1,0 +1,29 @@
+positive:Professional portrait photo, a 20-year-old woman, wearing a vibrant, patterned wrap dress, set against a lush, green botanical garden with vibrant flowers and soft sunlight, creating a lively and fresh setting, medium close-up
+negative:text, watermark, hands, fingers
+-----------------
+positive:Professional portrait photo, a 20-year-old woman, dressed in a classic white shirt with a tailored vest, standing in front of an industrial-style loft with exposed brick walls and soft, diffused lighting, blending contemporary style with a touch of refinement, medium close-up
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, in a chic, high-waisted skirt and fitted blouse, set against a softly lit, urban café backdrop with warm tones and modern decor, evoking a sophisticated and casual charm, medium close-up
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, wearing a luxurious silk blouse in a deep jewel tone, standing in front of a softly lit, elegant ballroom with neutral colors and subtle details, capturing a graceful and timeless elegance, medium close-up
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, standing gracefully in an elegant floral dress, lush garden setting, blooming flowers in the background, soft morning light creating a serene atmosphere, capturing her youthful beauty and poise
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, wearing a sleek, modern gown with intricate lace details, set against the backdrop of an ancient stone castle, golden hour light enhancing the textures and mood, a blend of history and contemporary elegance
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait medium shot photo, a 20-year-old woman, dressed in a flowing silk dress, standing on a cobblestone street in a quaint European village, pastel-colored buildings and ivy-covered walls adding charm and warmth to the scene
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, in a luxurious velvet gown, captured in a grand, chandelier-lit ballroom, her reflection softly visible in the polished marble floors, evoking a sense of timeless elegance and sophistication
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, wearing a bohemian-style dress with vibrant patterns, standing by a serene lakeside with mist rising off the water, the early morning light creating a mystical, dreamlike ambiance
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, in a tailored, minimalist dress, posing in a modern art gallery, surrounded by abstract sculptures and large windows, the clean lines and neutral tones highlighting her striking features and contemporary style
+negative:text, watermark, hands, fingers

@@ -1,0 +1,29 @@
+positive: A person standing triumphantly at the peak of a mountain, breathtaking sunrise background with warm, golden light, empowering and inspiring mood, overlay the text "Reach New Heights" in bold, uplifting font.
+negative: 
+-----------------
+positive: A runner sprinting down an empty road, wide open landscape with the sun setting in the distance, determined and focused mood, overlay the text "Push Your Limits" in dynamic, energetic font.
+negative: 
+----
+positive: A person climbing a steep rock face, vast mountain range in the background under a clear sky, resilient and courageous mood, overlay the text "Conquer Your Fears" in strong, bold font.
+negative: 
+----
+positive: A close-up of hands gripping the edge of a cliff, expansive valley below with morning mist rising, intense and powerful mood, overlay the text "Hold On Tight" in sharp, impactful font.
+negative: 
+----
+positive: A lone tree standing tall in a barren landscape, dramatic sky with dark clouds parting to reveal sunlight, enduring and hopeful mood, overlay the text "Stand Strong" in elegant, resolute font.
+negative: 
+----
+positive: A person crossing a rickety bridge over a deep chasm, rugged terrain below with a dramatic sunset, courageous and adventurous mood, overlay the text "Brave the Unknown" in adventurous, bold font.
+negative: 
+----
+positive: A climber reaching for the final hold on a challenging ascent, expansive wilderness stretching out below, determined and victorious mood, overlay the text "Achieve the Impossible" in triumphal, strong font.
+negative: 
+----
+positive: A hiker gazing out from the edge of a cliff, panoramic view of a vast forest with a clear sky, serene and contemplative mood, overlay the text "Find Your Path" in calming, reflective font.
+negative: 
+----
+positive: A diver emerging from the depths of a crystal-clear ocean, sunlight filtering through the water, exhilarated and free mood, overlay the text "Dive Into Success" in vibrant, flowing font.
+negative: 
+----
+positive: A person scaling a challenging ice wall, snow-covered peaks in the distance, resolute and brave mood, overlay the text "Rise Above Challenges" in powerful, dramatic font.
+negative: 

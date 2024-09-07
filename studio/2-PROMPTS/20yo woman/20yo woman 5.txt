@@ -1,0 +1,14 @@
+positive:Professional portrait photo, a 20-year-old woman, dressed in a trendy, cropped sweater and high-waisted jeans, with a backdrop of a stylish urban street scene featuring modern architecture and soft, natural light, creating a fresh and contemporary look, medium close-up
+negative:
+-----------------
+positive:Professional portrait photo, a 20-year-old woman, wearing a sleek, black evening gown with subtle metallic accents, set against a softly illuminated, modern architectural backdrop with clean lines and neutral tones, exuding elegance and sophistication, medium close-up
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, in a chic, tailored blazer over a minimalist blouse, standing in front of a bright, contemporary office space with soft lighting and a modern, professional atmosphere, capturing a confident and polished look, medium close-up
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, dressed in a flowing, pastel-colored maxi dress with floral prints, set against a serene beach backdrop with soft, golden light and gentle waves, creating a relaxed and dreamy ambiance, medium close-up
+negative:text, watermark, hands, fingers
+----
+positive:Professional portrait photo, a 20-year-old woman, in a sophisticated, high-neck sweater with intricate knit patterns, standing in front of a cozy, modern living room with warm, neutral tones and stylish decor, capturing a relaxed yet elegant vibe, medium close-up
+negative:text, watermark, hands, fingers

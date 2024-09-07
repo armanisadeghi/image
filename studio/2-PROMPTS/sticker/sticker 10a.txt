@@ -1,0 +1,29 @@
+positive:Kawaii Anime Chibi, Soft Pastel Colors, Adorable Knight, Cute Vector Character, Sticker Design
+negative:text, watermark, stock, shutterstock
+----
+positive:Minimalist Chibi Sticker, Monochrome Art, Samurai with Big Eyes, Simple Line Art, Cartoon Figure
+negative:text, watermark, stock, shutterstock
+----
+positive:Retro Cartoon Chibi, 80s Style, Cute Astronaut, Vibrant Colors, Vector Character for Stickers
+negative:text, watermark, stock, shutterstock
+----
+positive:Watercolor Chibi Sticker, Gentle Pastel Shades, Sweet Pirate, Soft Brushstrokes, Hand-Painted Look
+negative:text, watermark, stock, shutterstock
+----
+positive:Pixel Art Chibi, 16-Bit Style, Cute Robot, Retro Gaming Aesthetic, Vector Sticker Character
+negative:text, watermark, stock, shutterstock
+----
+positive:Fantasy Chibi Sticker, Magical Elements, Adorable Elf, Vibrant Colors, Cartoon Character
+negative:text, watermark, stock, shutterstock
+----
+positive:Cyberpunk Chibi, Neon Lights, Futuristic Ninja, Edgy Vector Art, Cute Sticker Design
+negative:text, watermark, stock, shutterstock
+----
+positive:Steampunk Chibi Sticker, Vintage Gears and Goggles, Victorian Inventor, Brown and Copper Tones
+negative:text, watermark, stock, shutterstock
+----
+positive:Gothic Chibi, Dark Color Palette, Adorable Vampire, Spooky Twist, Detailed Vector Character
+negative:text, watermark, stock, shutterstock
+----
+positive:Floral Chibi Sticker, Nature-Inspired, Cute Fairy with Flower Crown, Bright and Cheerful Vector Art
+negative:text, watermark, stock, shutterstock

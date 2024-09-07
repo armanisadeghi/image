@@ -1,0 +1,14 @@
+positive:Professional portrait photo, a 1-year-old boy, dressed in a cute, cartoon-themed onesie, set against a backdrop of a cozy, softly lit living room with warm, natural colors and simple decor, capturing a relaxed and endearing moment, medium close-up
+negative:
+-----------------
+positive:Professional portrait photo, a 1-year-old boy, wearing a soft, pastel-colored romper with cute animal prints, set against a gently blurred garden background with soft, natural light, capturing his playful and curious expressions, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 1-year-old boy, dressed in a cozy, knitted sweater with a matching beanie, standing against a backdrop of a warm, rustic wooden cabin with soft, natural tones and gentle lighting, evoking a sweet and homey feel, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 1-year-old boy, wearing a classic, button-up shirt with soft, neutral-toned overalls, set against a backdrop of a sunlit beach with gentle waves and warm, sandy hues, creating a relaxed and happy look, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 1-year-old boy, in a cute, plaid shirt with matching suspenders, set against a backdrop of a cozy, softly lit room with neutral tones and lux decor, capturing his sweet and content expressions, medium close-up
+negative:

@@ -1,0 +1,14 @@
+positive: A sleek sports car speeding down an open highway, sunset background with warm, glowing colors, dynamic and exhilarating mood, focus on the car's reflective surface and motion blur to emphasize speed.
+negative: 
+-----------------
+positive: A classic vintage car parked in front of a retro diner, nostalgic backdrop with neon signs and 1950s architecture, timeless and Americana mood, highlight the polished chrome details and retro styling of the car.
+negative: 
+----
+positive: A rally car racing through a muddy off-road track, rugged outdoor background with splashing mud and scattered rocks, intense and adventurous mood, capture the dirt flying and the car navigating a sharp turn.
+negative: 
+----
+positive: A luxury sedan parked in a modern urban setting, sleek cityscape with tall buildings and subtle reflections, sophisticated and elegant mood, emphasize the car's clean lines and the upscale environment.
+negative: 
+----
+positive: A group of off-road vehicles climbing a rocky mountain trail, dramatic mountain background with rugged terrain and a cloudy sky, adventurous and rugged mood, focus on the vehicles' durability and the challenging landscape.
+negative: 

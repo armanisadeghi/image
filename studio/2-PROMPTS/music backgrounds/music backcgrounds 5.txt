@@ -1,0 +1,14 @@
+positive: A dimly lit urban alleyway with neon signs and light rain, wet pavement reflecting the lights, moody and atmospheric mood, subtle fog adds depth and mystery to the scene.
+negative: 
+-----------------
+positive: A wide-open desert landscape at sunset, warm orange and purple hues in the sky, serene and expansive mood, silhouettes of distant mountains create a sense of calm and endless possibilities.
+negative: 
+----
+positive: professional photo of a guitar, a dimly lit jazz club with smoky ambiance, intimate and nostalgic mood, soft lighting
+negative: 
+----
+positive: A vibrant city skyline at night with lights reflecting off a calm river, glowing skyscrapers and bridges, energetic and dynamic mood, gentle ripples in the water add movement to the scene.
+negative: 
+----
+positive: A misty forest at dawn with soft, diffused light filtering through the trees, ethereal and tranquil mood, subtle rays of sunlight create a dreamlike atmosphere with a touch of mystery.
+negative: 

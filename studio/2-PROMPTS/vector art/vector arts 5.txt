@@ -1,0 +1,16 @@
+positive: A detailed vector map of a fictional city, intricate lines and carefully placed icons with a monochrome palette, precise and organized mood, the map includes streets, landmarks, and typography, creating a visually appealing and informative design.
+negative: 
+-----------------
+positive: A sleek vector illustration of a futuristic cityscape, clean lines and geometric shapes with a palette of cool, muted tones, modern and tech-inspired mood, the design includes sharp angles and minimalist details to emphasize the futuristic theme.
+negative: 
+----
+positive: A playful vector design featuring abstract shapes and patterns, vibrant colors with a mix of organic and geometric forms, fun and energetic mood, the artwork has a dynamic composition with overlapping elements and bold contrasts.
+negative: 
+----
+positive: A minimalist vector portrait of a woman, simple lines and flat colors with a focus on the facial features, elegant and sophisticated mood, the design uses negative space effectively to highlight the subject's expression and pose.
+negative: 
+----
+positive: A vector illustration of a tropical scene with palm trees and ocean waves, bright and cheerful colors with smooth gradients, relaxing and summery mood, the artwork captures the essence of a beach vacation with stylized, flowing shapes.
+negative: 
+----
+

@@ -1,0 +1,14 @@
+positive: A person standing triumphantly at the peak of a mountain, breathtaking sunrise background with warm, golden light, empowering and inspiring mood
+negative: 
+-----------------
+positive: A runner sprinting down an empty road, wide open landscape with the sun setting in the distance, determined and focused mood
+negative: 
+----
+positive: A person climbing a steep rock face, vast mountain range in the background under a clear sky, resilient and courageous mood
+negative: 
+----
+positive: edge of a black ROCK cliff, expansive valley below with morning mist rising, a big vulcano,intense and powerful mood
+negative: 
+----
+positive: A lone tree standing tall in a barren landscape, dramatic sky with dark clouds parting to reveal sunlight, enduring and hopeful mood
+negative: 

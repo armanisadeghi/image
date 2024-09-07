@@ -1,0 +1,16 @@
+positive: A classic engraving of a serene mountain landscape with a winding path leading to the peak, detailed line work with subtle shading, introspective and motivational mood, overlay the quote "The journey of a thousand miles begins with a single step." in a timeless script.
+negative: 
+-----------------
+positive: A vintage engraving of an ancient oak tree with deep roots and sprawling branches, intricate details with textured shading, timeless and wise mood, overlay the quote "Wisdom is the reward for a lifetime of listening." in elegant script.
+negative: 
+----
+positive: A detailed engraving of an old, weathered compass surrounded by maps and tools, precise lines with a sense of history, guiding and reflective mood, overlay the quote "Not all who wander are lost." in a classic serif font.
+negative: 
+----
+positive: An ornate engraving of an open book with a quill and inkwell, rich textures with delicate shading, intellectual and contemplative mood, overlay the quote "Knowledge speaks, but wisdom listens." in a refined, traditional font.
+negative: 
+----
+positive: A finely crafted engraving of a lighthouse standing tall against crashing waves, dramatic contrast with a sense of strength and resilience, steadfast and inspiring mood, overlay the quote "In the darkest hours, the light shines brightest." in an elegant cursive font.
+negative: 
+----
+

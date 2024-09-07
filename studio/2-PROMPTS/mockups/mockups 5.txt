@@ -1,0 +1,14 @@
+positive: A modern living room with a large abstract painting centered above a sleek gray sofa, minimalist decor with neutral tones, contemporary and stylish mood, the artwork features bold brushstrokes and vibrant colors that pop against the subtle background.
+negative: 
+-----------------
+positive: A cozy bedroom with a framed black-and-white photograph hanging above the bed, soft lighting with warm tones, intimate and inviting mood, the photo depicts a serene landscape, adding a peaceful touch to the room.
+negative: 
+----
+positive: A bright dining area with a colorful geometric art piece on the wall, clean and airy space with wooden furniture, lively and energetic mood, the artwork’s sharp lines and vivid colors bring vibrancy to the setting.
+negative: 
+----
+positive: A minimalist home office with a motivational quote poster displayed above a sleek desk, neutral color palette with subtle decor, focused and productive mood, the text is in a modern, bold font, inspiring creativity and determination.
+negative: 
+----
+positive: A stylish hallway with a triptych of nature-themed paintings, simple and elegant decor with soft lighting, calm and serene mood, the artwork features soft, natural colors that harmonize with the space’s overall aesthetic.
+negative: 

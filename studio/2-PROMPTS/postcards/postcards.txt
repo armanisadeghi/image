@@ -1,0 +1,14 @@
+positive: A charming postcard featuring a watercolor illustration of a cozy cottage surrounded by blooming flowers, soft pastel background with delicate brushstrokes, warm and inviting mood, overlay the text "Home Sweet Home" with the name "Emily" in elegant script.
+negative:   
+-----------------
+positive: A stylish postcard with a modern geometric pattern in vibrant colors, clean white background with bold, contrasting shapes, contemporary and cheerful mood, overlay the text "Cheers to You" with the name "Michael" in a sleek, sans-serif font.
+negative: 
+----
+positive: A vintage postcard design with a romantic scene of a sunset over a serene lake, muted tones and classic textures, nostalgic and sentimental mood, overlay the text "Thinking of You" with the name "Sophia" in a classic serif font.
+negative: 
+----
+positive: A playful postcard featuring a cute cartoon illustration of two lovebirds perched on a branch, bright, cheerful colors with a light, textured background, affectionate and happy mood, overlay the text "Sending Love" with the name "Oliver" in a whimsical, handwritten font.
+negative: 
+----
+positive: A elegant postcard with a minimalist design of a single blooming rose, soft background with subtle gradients, sophisticated and refined mood, overlay the text "With Love" with the name "Ava" in a graceful, calligraphic font.
+negative: 

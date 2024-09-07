@@ -1,0 +1,541 @@
+{
+  "last_node_id": 128,
+  "last_link_id": 376,
+  "nodes": [
+    {
+      "id": 126,
+      "type": "UnzipPrompt //Inspire",
+      "pos": [
+        675,
+        125
+      ],
+      "size": {
+        "0": 275,
+        "1": 75
+      },
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "zipped_prompt",
+          "type": "ZIPPED_PROMPT",
+          "link": 362
+        }
+      ],
+      "outputs": [
+        {
+          "name": "positive",
+          "type": "STRING",
+          "links": [
+            370
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "negative",
+          "type": "STRING",
+          "links": [
+            361
+          ],
+          "slot_index": 1,
+          "shape": 3
+        },
+        {
+          "name": "name",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UnzipPrompt //Inspire"
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 128,
+      "type": "VAEDecode",
+      "pos": [
+        675,
+        250
+      ],
+      "size": {
+        "0": 275,
+        "1": 50
+      },
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 364
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 365
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            372
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 117,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        300,
+        225
+      ],
+      "size": {
+        "0": 350,
+        "1": 125
+      },
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            376
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            347,
+            363
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            365
+          ],
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "realvisxlV40_v40LightningBakedvae.safetensors"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 86,
+      "type": "KSampler",
+      "pos": [
+        300,
+        550
+      ],
+      "size": {
+        "0": 350,
+        "1": 262
+      },
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 376
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 375
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 373
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 345
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            364
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        2,
+        "increment",
+        10,
+        2,
+        "ddpm",
+        "exponential",
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 127,
+      "type": "CLIPTextEncode",
+      "pos": [
+        675,
+        350
+      ],
+      "size": {
+        "0": 275,
+        "1": 150
+      },
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 363
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 361,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            373
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "professional photo, {girl} on a event, {long hair}, bokeh, superhero clothes"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 111,
+      "type": "CLIPTextEncode",
+      "pos": [
+        675,
+        550
+      ],
+      "size": {
+        "0": 275,
+        "1": 75
+      },
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 347
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 370,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            375
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 118,
+      "type": "EmptyLatentImage",
+      "pos": [
+        300,
+        400
+      ],
+      "size": {
+        "0": 350,
+        "1": 106
+      },
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            345
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        1024,
+        1024,
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 62,
+      "type": "SaveImage",
+      "pos": [
+        975,
+        125
+      ],
+      "size": {
+        "0": 650,
+        "1": 700
+      },
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 372
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "ComfyUI"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 120,
+      "type": "LoadPromptsFromFile //Inspire",
+      "pos": [
+        300,
+        125
+      ],
+      "size": {
+        "0": 350,
+        "1": 58
+      },
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_data_opt",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text_data_opt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "ZIPPED_PROMPT",
+          "type": "ZIPPED_PROMPT",
+          "links": [
+            362
+          ],
+          "shape": 6
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadPromptsFromFile //Inspire"
+      },
+      "widgets_values": [
+        "1yo boy\\1yo boy 5.txt",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    }
+  ],
+  "links": [
+    [
+      345,
+      118,
+      0,
+      86,
+      3,
+      "LATENT"
+    ],
+    [
+      347,
+      117,
+      1,
+      111,
+      0,
+      "CLIP"
+    ],
+    [
+      361,
+      126,
+      1,
+      127,
+      1,
+      "STRING"
+    ],
+    [
+      362,
+      120,
+      0,
+      126,
+      0,
+      "ZIPPED_PROMPT"
+    ],
+    [
+      363,
+      117,
+      1,
+      127,
+      0,
+      "CLIP"
+    ],
+    [
+      364,
+      86,
+      0,
+      128,
+      0,
+      "LATENT"
+    ],
+    [
+      365,
+      117,
+      2,
+      128,
+      1,
+      "VAE"
+    ],
+    [
+      370,
+      126,
+      0,
+      111,
+      1,
+      "STRING"
+    ],
+    [
+      372,
+      128,
+      0,
+      62,
+      0,
+      "IMAGE"
+    ],
+    [
+      373,
+      127,
+      0,
+      86,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      375,
+      111,
+      0,
+      86,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      376,
+      117,
+      0,
+      86,
+      0,
+      "MODEL"
+    ]
+  ],
+  "groups": [
+    {
+      "title": "DEFAULT BATCH",
+      "bounding": [
+        275,
+        25,
+        1375,
+        850
+      ],
+      "color": "#8A8",
+      "font_size": 24,
+      "locked": false
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.6588450000000194,
+      "offset": [
+        179.108340691275,
+        164.99060773308273
+      ]
+    },
+    "groupNodes": {}
+  },
+  "version": 0.4
+}

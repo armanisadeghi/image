@@ -1,0 +1,14 @@
+positive: A vibrant and dynamic abstract design with swirling lines and bold splashes of color, deep blue and gold tones with hints of red, energetic and modern mood, the backdrop adds a sense of movement and excitement, perfect for a music festival or concert.
+negative:  
+-----------------
+positive: A minimalist geometric pattern with clean lines and subtle gradients, cool shades of gray and white with a touch of metallic silver, sleek and contemporary mood, ideal for a tech conference or business event.
+negative: 
+----
+positive: A lush botanical illustration with tropical leaves and flowers, rich green tones with pops of bright pink and orange, fresh and inviting mood, the backdrop creates a lively, natural atmosphere, perfect for a summer party or outdoor event.
+negative: 
+----
+positive: A vintage-inspired design with faded textures and ornate details, muted sepia and cream colors with intricate borders, nostalgic and elegant mood, the backdrop evokes a sense of history and charm, ideal for a classical concert or cultural event.
+negative: 
+----
+positive: A futuristic cityscape with glowing neon lights and sleek skyscrapers, deep purple and blue hues with bright accents, energetic and sci-fi mood, the backdrop sets the stage for a cutting-edge tech event or modern art exhibition.
+negative: 

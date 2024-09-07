@@ -1,0 +1,48 @@
+positive:Professional portrait photo, a 6-year-old boy, wearing a stylish summer jacket over a graphic tee, set against a backdrop of a vibrant city park with lush greenery and soft sunlight, capturing a cool and casual vibe, medium close-up
+negative:
+-----------------
+positive:Professional portrait photo, a 6-year-old boy, wearing a stylish, checked blazer over a crisp white shirt, set against a soft, blurred cityscape background with warm tones, capturing a sophisticated yet playful look, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 6-year-old boy, wearing a cozy, knit white sweater, set against a backdrop of a colorful, autumnal forest, the vibrant foliage and warm colors enhancing his cheerful expression, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 6-year-old boy, dressed in a crisp white polo shirt with navy shorts, standing in front of a serene beach with soft, neutral tones, the gentle waves and light sand providing a calm and fresh setting, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 6-year-old boy, dressed in a cowboy outfit, standing by a wooden fence in a rural setting, with rolling hills in the background, his confident stance and wide smile bringing the wild west to life
+negative:
+----
+positive:Professional portrait photo, a 6-year-old boy, luxury attire, set against a backdrop of a studio , bgrey background, posing, smile, medium close-up, centered
+negative:
+----
+positive:Professional portrait photo, a 6-year-old boy, wearing a brasil soccer uniform, standing on a soccerfield, backlight, medium close-up
+negative: ball, football
+----
+positive:Professional portrait photo, a 6-year-old boy, wearing a plaid shirt and jeans, standing in a sunlit field, the golden light creating a warm, nostalgic atmosphere
+negative:
+----
+positive:Professional portrait photo, a 6-year-old boy, dressed in a plaid button-up shirt with rolled-up sleeves, standing in front of a rustic wooden fence with warm, smile, natural light, evoking a charming and laid-back feel, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 6-year-old boy, in a trendy bomber jacket with bold, geometric patterns, set against a backdrop of a modern urban skatepark with clean lines and neutral tones, creating a contemporary and dynamic look, medium close-up
+negative:
+----
+positive:Professional portrait photo, a 6-year-old boy, dressed in a classic, art polo shirt with khaki shorts, standing in front of a serene lakeside with soft reflections and warm, golden light, capturing a relaxed and summery vibe, medium close-up
+negative:
+----
+positive:epic cinematic shot of dynamic a european 6yo boy,event hair, crown, smile, renaissance, pose for a picture in a digital painting style photo by a photographer, Altoon Sultan, highly detailed digital painting, back sunlight best quality, high resolution
+negative:
+----
+positive:medium clode-up photo, PROFESSIONAL warm lovely, romantic, a happy 6yo boy posing on a wheat field,  knitted sweater, mountains, trees, sunset
+negative: 
+
+
+
+
+
+
+
+
+
+
