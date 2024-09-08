@@ -1,0 +1,734 @@
+{
+  "last_node_id": 48,
+  "last_link_id": 91,
+  "nodes": [
+    {
+      "id": 46,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        450,
+        100
+      ],
+      "size": {
+        "0": 400,
+        "1": 100
+      },
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            87
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            83,
+            84
+          ],
+          "slot_index": 1,
+          "shape": 3
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            85
+          ],
+          "slot_index": 2,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "realvisxlV40_v40LightningBakedvae.safetensors"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 43,
+      "type": "easy showAnything",
+      "pos": [
+        875,
+        400
+      ],
+      "size": {
+        "0": 322.9326477050781,
+        "1": 162.64593505859375
+      },
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 77
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "big long brushstrokes of deep black sumi-e turning into symbolic painting of Cinematic photo of an anthropomorphic penguin sitting in a cafe reading a book and having a coffee, words \"Stable Cascade\" on the blackboard,. master level raw art. best quality, high resolution, dark cyberpunk illustration of brutal  in a world without hope, ruled by ruthless criminal corporations. best quality, high resolution, geometric and lyrical abstraction painting presenting . oil on metal. best quality, high resolution"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 47,
+      "type": "KSampler",
+      "pos": [
+        875,
+        100
+      ],
+      "size": {
+        "0": 325,
+        "1": 262
+      },
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 87
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 88
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 89
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 90
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            91
+          ],
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        828992130490507,
+        "randomize",
+        10,
+        2,
+        "ddpm",
+        "exponential",
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 2,
+      "type": "StableCascade_StageB_Conditioning",
+      "pos": [
+        1225,
+        200
+      ],
+      "size": {
+        "0": 277.20001220703125,
+        "1": 50
+      },
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 86
+        },
+        {
+          "name": "stage_c",
+          "type": "LATENT",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "StableCascade_StageB_Conditioning"
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 12,
+      "type": "CLIPTextEncode",
+      "pos": [
+        1225,
+        100
+      ],
+      "size": {
+        "0": 275,
+        "1": 54
+      },
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 83
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 19,
+          "slot_index": 1,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            86,
+            88
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 13,
+      "type": "CLIPTextEncode",
+      "pos": [
+        1225,
+        300
+      ],
+      "size": {
+        "0": 275,
+        "1": 54
+      },
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 84
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 20,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            89
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 5,
+      "type": "VAEDecode",
+      "pos": [
+        1225,
+        400
+      ],
+      "size": {
+        "0": 275,
+        "1": 50
+      },
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 91
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 85
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            22
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 18,
+      "type": "PreviewImage",
+      "pos": [
+        1525,
+        100
+      ],
+      "size": {
+        "0": 506.9290466308594,
+        "1": 542.4854736328125
+      },
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 22
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 48,
+      "type": "EmptyLatentImage",
+      "pos": [
+        25,
+        100
+      ],
+      "size": {
+        "0": 400,
+        "1": 106
+      },
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            90
+          ],
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        1024,
+        1024,
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 44,
+      "type": "easy showAnything",
+      "pos": [
+        875,
+        600
+      ],
+      "size": {
+        "0": 325.014892578125,
+        "1": 144.53829956054688
+      },
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 78
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "bad quality, , photography, rendered. low quality, low resolution, low quality, low resolution, photography, realistic, drawing, rendered. low quality, low resolution"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 16,
+      "type": "easy stylesSelector",
+      "pos": [
+        451,
+        250
+      ],
+      "size": {
+        "0": 400,
+        "1": 675
+      },
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "positive",
+          "type": "STRING",
+          "link": 17,
+          "widget": {
+            "name": "positive"
+          }
+        },
+        {
+          "name": "negative",
+          "type": "STRING",
+          "link": 18,
+          "widget": {
+            "name": "negative"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "positive",
+          "type": "STRING",
+          "links": [
+            19,
+            77
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "negative",
+          "type": "STRING",
+          "links": [
+            20,
+            78
+          ],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy stylesSelector",
+        "values": [
+          "mre-sumi-e-symbolic",
+          "mre-dark-cyberpunk",
+          "mre-lyrical-geometry",
+          "misc-dystopian",
+          "misc-grunge"
+        ]
+      },
+      "widgets_values": [
+        "fooocus_styles",
+        "",
+        "",
+        "mre-sumi-e-symbolic,mre-dark-cyberpunk,mre-lyrical-geometry,misc-dystopian,misc-grunge"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 14,
+      "type": "CR Prompt Text",
+      "pos": [
+        25,
+        250
+      ],
+      "size": {
+        "0": 400,
+        "1": 200
+      },
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            17
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Prompt Text"
+      },
+      "widgets_values": [
+        "cute bunny in the forest"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 15,
+      "type": "CR Prompt Text",
+      "pos": [
+        25,
+        500
+      ],
+      "size": {
+        "0": 400,
+        "1": 200
+      },
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            18
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Prompt Text"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    }
+  ],
+  "links": [
+    [
+      17,
+      14,
+      0,
+      16,
+      0,
+      "STRING"
+    ],
+    [
+      18,
+      15,
+      0,
+      16,
+      1,
+      "STRING"
+    ],
+    [
+      19,
+      16,
+      0,
+      12,
+      1,
+      "STRING"
+    ],
+    [
+      20,
+      16,
+      1,
+      13,
+      1,
+      "STRING"
+    ],
+    [
+      22,
+      5,
+      0,
+      18,
+      0,
+      "IMAGE"
+    ],
+    [
+      77,
+      16,
+      0,
+      43,
+      0,
+      "*"
+    ],
+    [
+      78,
+      16,
+      1,
+      44,
+      0,
+      "*"
+    ],
+    [
+      83,
+      46,
+      1,
+      12,
+      0,
+      "CLIP"
+    ],
+    [
+      84,
+      46,
+      1,
+      13,
+      0,
+      "CLIP"
+    ],
+    [
+      85,
+      46,
+      2,
+      5,
+      1,
+      "VAE"
+    ],
+    [
+      86,
+      12,
+      0,
+      2,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      87,
+      46,
+      0,
+      47,
+      0,
+      "MODEL"
+    ],
+    [
+      88,
+      12,
+      0,
+      47,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      89,
+      13,
+      0,
+      47,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      90,
+      48,
+      0,
+      47,
+      3,
+      "LATENT"
+    ],
+    [
+      91,
+      47,
+      0,
+      5,
+      0,
+      "LATENT"
+    ]
+  ],
+  "groups": [
+    {
+      "title": "FOOCUS STYLE ",
+      "bounding": [
+        0,
+        0,
+        2063,
+        960
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "locked": false
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.5445000000000123,
+      "offset": [
+        488.79985629228577,
+        288.62606006318754
+      ]
+    }
+  },
+  "version": 0.4
+}
