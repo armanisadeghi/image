@@ -1,0 +1,73 @@
+name: matrx_media
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge  # Adding conda-forge for broader package availability
+dependencies:
+  - python=3.11  # Specify the Python version
+  - pytorch=2.0.1  # PyTorch version
+  - torchvision=0.15.2  # torchvision
+  - torchaudio  # Add torchaudio, paired with torch/torchvision
+  - pytorch-cuda=11.7  # CUDA version
+  - scipy  # Required for scientific computations
+  - pillow  # Required for image processing
+  - scikit-image  # For image processing tasks
+  - opencv  # For video/image processing
+  - psutil  # System and process utilities
+  - pip  # Ensure pip packages are supported
+
+  # Pip dependencies for finer control
+  - pip:
+    - cog
+    - numpy<2  # Ensuring NumPy < 2 as per your previous setup
+    - diffusers==0.27.0
+    - transformers>=4.32.1
+    - decord==0.6.0
+    - einops
+    - omegaconf
+    - matplotlib>=3.9  # Ensure matplotlib is listed
+    - onnxruntime-gpu
+    - onnxruntime
+    - accelerate
+    - safetensors>=0.4.2
+    - tokenizers>=0.13.3
+    - sentencepiece
+    - sentence_transformers==2.2.2
+    - auto-gptq==0.7.1
+    - bitsandbytes>=0.43
+    - huggingface_hub[cli]
+    - datasets
+    - optimum==1.17.*
+    - peft==0.12.*
+    - tqdm==4.66.4  # Progress bar
+    - wandb  # Weights and Biases logging tool
+    - PyPDF2
+    - openai==0.28.1
+    - gradio==4.37.1  # Use the version that works well with pydantic 2.x
+    - gradio_client==1.0.2  # Include this as per your working setup
+    - streamlit  # Streamlit app support
+    - librosa==0.7.0  # For audio processing
+    - ffmpeg-python==0.2.0  # For handling video files
+    - rich==13.7.1  # Terminal output formatting
+    - pyyaml==6.0.1  # For YAML config parsing
+    - requests  # HTTP requests handling
+    - colorama  # For colored output in the terminal
+    - jinja2==3.1.4  # Templating engine
+    - numba==0.59.*  # For optimizing performance
+    - markdown  # Markdown parser
+    - dominate  # HTML generation
+    - beautifulsoup4  # Web scraping
+    - onnx==1.16.1
+    - PyKalman  # Kalman filters for time series
+    - kornia>=0.7.1  # Computer vision library in PyTorch
+    - spandrel  # Non-essential dependency from your list
+    - soundfile  # For reading and writing sound files
+    - hqq==0.1.7.post3  # Non-essential dependency
+    - lm_eval==0.3.0  # Language model evaluation
+    - tiktoken  # For efficient tokenization
+    - sse-starlette==1.6.5  # For server-sent events
+    - flask_cloudflared==0.0.14  # API tunneling
+    - SpeechRecognition==3.10.0  # Speech-to-text support
+    - insightface
+    - keras
+    - fastai
